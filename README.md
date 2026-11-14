@@ -91,14 +91,7 @@ Welcome to my GitHub profile! I'm interested in building practical solutions usi
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-
 ---
-
-## 📊 GitHub Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashshishodia64-commits&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
 
 ⭐ Thanks for visiting my profile!
 
