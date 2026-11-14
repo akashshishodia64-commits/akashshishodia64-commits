@@ -91,11 +91,6 @@ Welcome to my GitHub profile! I'm interested in building practical solutions usi
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
-
-⭐ Thanks for visiting my profile!
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-s-25166a294">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
