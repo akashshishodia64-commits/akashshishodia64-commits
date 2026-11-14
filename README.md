@@ -96,3 +96,12 @@ Welcome to my GitHub profile! I'm interested in building practical solutions usi
 ⭐ Thanks for visiting my profile!
 
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/akash-s-25166a294">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:akashshishodia64@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
