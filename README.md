@@ -92,4 +92,14 @@ Welcome to my GitHub profile! I'm interested in building practical solutions usi
 </p>
 
 
+---
+
+## 📊 GitHub Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashshishodia64-commits&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+⭐ Thanks for visiting my profile!
+
 
