@@ -77,11 +77,5 @@ Welcome to my GitHub profile! I'm interested in building practical solutions usi
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashshishodia64-commits&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashshishodia64-commits&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
 
